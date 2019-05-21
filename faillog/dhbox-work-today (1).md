@@ -4,3 +4,5 @@
     4  pandoc -v
     5  history
     6  history > dhbox-work-today.md
+
+### I was having a hard time
