@@ -15,3 +15,4 @@
    15  histroy >2019.-05.26/md
    16  histroy >2019.-05.
    17  history > todayomfg.md
+### I was having a hard time
