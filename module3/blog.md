@@ -12,7 +12,7 @@ I wasn’t entirely sure what to make of the capstone exercise. It seemed like a
 
 There were enough patterns to the OCR errors that I could clean the document up a fair bit, but to make it completely legible I would have to do a lot more by hand, which kind of feels like cheating? But I guess there isn’t a magical solution (or program) to fix everything. 
 
-So in the end I used sed to make big changes to the document, things that were repetitive. I found it somewhat frustrating that I could likely transcribe the document quicker than I could change it with Regex just because the OCR mangled the text so badly. In the second war diary I cleaned up, I mostly transcribed. There was a bit where I was able to use what the OCR produced, but most of it was gibberish. 
+So in the end I used sed to make big changes to the document, things that were repetitive. I found it somewhat frustrating that I could likely transcribe the document quicker than I could change it with Regex just because the OCR mangled the text so badly. In the second war diary I cleaned up, I mostly transcribed. There was a bit where I was able to use what the OCR produced, but most of it was gibberish. I wish I could have done more of it with Regex and I'm disappointed that I couldn't figure out how to do more.
 
 (I wasn’t able to save my most of my history for the capstone exercise because of my internet crashing but I used sed to replace whatever character had taken the place of ‘M’ or ‘N,’ especially when it came to the word Matron. I also used it to replace a lot of instances where ‘18’ had been misinterpreted for ‘13.’ I otherwise used it to delete a lot of unnecessary characters like underscores or dollar signs.)
 
